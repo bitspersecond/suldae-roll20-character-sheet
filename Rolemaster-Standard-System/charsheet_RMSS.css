@@ -17,7 +17,7 @@
 .sheet-pc-spellsorclosed-show:not(:checked)~.sheet-pc-spellsorclosed {display:none;} 
 .sheet-pc-spellsorbase-show:not(:checked)~.sheet-pc-spellsorbase {display:none;} 
 .sheet-pc-spellsarcanebase-show:not(:checked)~.sheet-pc-spellsarcanebase {display:none;} 
-.sheet-pc-spellsarcaneotherbase-show:not(:checked)~.sheet-pc-arcanespellsotherbase {display:none;} 
+.sheet-pc-spellsarcaneotherbase-show:not(:checked)~.sheet-pc-spellsarcaneotherbase {display:none;} 
 .sheet-pc-spellsarcaneopen-show:not(:checked)~.sheet-pc-spellsarcaneopen{display:none;} 
 .sheet-pc-spellsarcaneclosed-show:not(:checked)~.sheet-pc-spellsarcaneclosed {display:none;} 
 .sheet-pc-skills-show:not(:checked)~.sheet-pc-skills {display:none;}  
